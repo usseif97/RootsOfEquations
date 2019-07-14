@@ -1,0 +1,4 @@
+x.^2 - 4
+modified newton
+5
+0.0001
